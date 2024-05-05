@@ -2,6 +2,7 @@
 
 # Get Started
 
-- [Chapter 1](./chapter_1.md)
+- [Set Up](./setup.md)
+- [Contributing](./contribute.md)
 
-  -[Chapter 1.1](./chapter_1.1.md)
+# Documentation
